@@ -49,7 +49,6 @@ Plugin 'vim-airline/vim-airline-themes'
 
 set ruler laststatus=2 number title hlsearch
 syntax on
-set number
 
 " Spell-check set to F6
 map <F6> :setlocal spell! spelllang=en<CR>
