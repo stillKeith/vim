@@ -46,6 +46,10 @@ Plugin 'reedes/vim-pencil'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
+syntax enable
+set background=dark
+colorscheme solarized
+
 
 set ruler laststatus=2 number title hlsearch
 syntax on
